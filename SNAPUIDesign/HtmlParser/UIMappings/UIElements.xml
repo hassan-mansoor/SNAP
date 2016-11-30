@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Mappings>
+  <!--
+  Elements are places in the sorted order in XML file
+  <ReadableUIElement>
+         <UIElement><UIElement>
+      </ReadableUIElement>  
+      -->
+  <link>
+    <a></a>
+  </link>
+  <button>
+    <submit></submit>
+  </button>
+  
+  <checkbox>    
+  </checkbox>
+  <!--<Elements for="" rule2B=""></Elements>-->
+  <customcheckbox></customcheckbox>
+  <customselect></customselect>
+  <custommenu></custommenu>
+  <customlabel></customlabel>
+  <custombutton></custombutton>
+  <customtextbox></customtextbox>
+  <custompasswordbox></custompasswordbox>
+  <!--<divider>
+    <div></div>
+  </divider>-->
+  <dropdown>
+    <select></select>    
+    <menu></menu>    
+    <ul></ul>
+  </dropdown>
+  <inputform>
+    <!--<form></form>-->
+  </inputform>
+  
+  <heading>
+    <h1></h1>
+    <h2></h2>
+    <h3></h3>
+  </heading>
+  <input></input>
+  <label></label>
+  <image>
+    <img></img>
+  </image>
+  <textbox>
+    <text></text>
+  </textbox>
+  <passwordbox>
+    <password></password>
+  </passwordbox>
+</Mappings>

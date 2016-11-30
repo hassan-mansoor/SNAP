@@ -1,0 +1,15 @@
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\bin\Debug\HtmlParser.exe.config
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\bin\Debug\HtmlParser.exe
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\bin\Debug\HtmlParser.pdb
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\bin\Debug\PreMailer.Net.dll
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\bin\Debug\AngleSharp.dll
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\bin\Debug\PreMailer.Net.pdb
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\bin\Debug\AngleSharp.xml
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\obj\Debug\HtmlParser.csprojResolveAssemblyReference.cache
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\obj\Debug\HtmlParser.exe
+C:\Users\ChHassan\Documents\SNAPUserInterfaceDesign\SNAPUIDesign\HtmlParser\obj\Debug\HtmlParser.pdb

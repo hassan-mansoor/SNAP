@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>SNAP User Interface Design </h1>     
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <p>
+            The API used to take Html File and  CSS source file and an elementry process and return Json file of SNAP.  
+        </p>
+        <fieldset>
+            @using (Ajax.BeginForm("Snap", "Home",
+                            new AjaxOptions { UpdateTargetId = "divInterestDeatils" }))
+            {
+                <div id="divInterestDeatils"></div>
+                <ol>
+                    <li>
+                        @Html.Label("Html File")
+                        @Html.TextBox("HtmlFile")
+                    </li>
+                    <li>
+                        @Html.Label("Css File")
+                        @Html.TextBox("CssFile")
+                    </li>
+                    <li>
+                        @Html.Label("Elementry Process")
+                        @Html.TextBox("XPath")
+                    </li>
+
+                </ol>
+                <button>Download</button>
+            }
+        </fieldset>
+    </div>    
+   
+   
+</div>

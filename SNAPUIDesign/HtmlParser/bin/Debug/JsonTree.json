@@ -1,0 +1,527 @@
+{
+  "EP_name": "Join GitHub · GitHub.html",
+  "EP_screens": [
+    {
+      "HTML_file": "C:\\Users\\ChHassan\\Desktop\\SNAP\\Validation+Files+Screens\\Github\\JoinGitHub.html",
+      "CSS_files": [
+        "C:\\Users\\ChHassan\\Desktop\\SNAP\\Validation+Files+Screens\\Github\\Join GitHub · GitHub_files\\github-33dd01e395889488eb5f48a92d7382a3e68eb0904904f217320e8876c028c7de.css"
+      ],
+      "XPaths": [
+        "//div[@class='setup-wrapper']"
+      ],
+      "UI_elements": [
+        {
+          "UI_element_name": "heading",
+          "properties": [
+            {
+              "property_name": "margin-top",
+              "property_values": [
+                {
+                  "value": " 0",
+                  "HTML_fragments": [
+                    "<h1 style=\"margin-top: 0;margin-bottom: 0;font-size: 45px;font-weight: normal;line-height: 1.1;letter-spacing: -1px\" >Join GitHub</h1>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "margin-bottom",
+              "property_values": [
+                {
+                  "value": " 0",
+                  "HTML_fragments": [
+                    "<h1 style=\"margin-top: 0;margin-bottom: 0;font-size: 45px;font-weight: normal;line-height: 1.1;letter-spacing: -1px\" >Join GitHub</h1>"
+                  ]
+                },
+                {
+                  "value": " 15px",
+                  "HTML_fragments": [
+                    "<h2 style=\"padding: 15px;margin-bottom: 15px;overflow: hidden;font-size: 16px;border-bottom: 1px solid #ddd\" >You’ll love GitHub</h2>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "font-size",
+              "property_values": [
+                {
+                  "value": " 45px",
+                  "HTML_fragments": [
+                    "<h1 style=\"margin-top: 0;margin-bottom: 0;font-size: 45px;font-weight: normal;line-height: 1.1;letter-spacing: -1px\" >Join GitHub</h1>"
+                  ]
+                },
+                {
+                  "value": " 16px",
+                  "HTML_fragments": [
+                    "<h2 style=\"font-size: 16px\" >    Create your personal account  </h2>",
+                    "<h2 style=\"padding: 15px;margin-bottom: 15px;overflow: hidden;font-size: 16px;border-bottom: 1px solid #ddd\" >You’ll love GitHub</h2>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "font-weight",
+              "property_values": [
+                {
+                  "value": " normal",
+                  "HTML_fragments": [
+                    "<h1 style=\"margin-top: 0;margin-bottom: 0;font-size: 45px;font-weight: normal;line-height: 1.1;letter-spacing: -1px\" >Join GitHub</h1>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "line-height",
+              "property_values": [
+                {
+                  "value": " 1.1",
+                  "HTML_fragments": [
+                    "<h1 style=\"margin-top: 0;margin-bottom: 0;font-size: 45px;font-weight: normal;line-height: 1.1;letter-spacing: -1px\" >Join GitHub</h1>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "letter-spacing",
+              "property_values": [
+                {
+                  "value": " -1px",
+                  "HTML_fragments": [
+                    "<h1 style=\"margin-top: 0;margin-bottom: 0;font-size: 45px;font-weight: normal;line-height: 1.1;letter-spacing: -1px\" >Join GitHub</h1>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "padding",
+              "property_values": [
+                {
+                  "value": " 15px",
+                  "HTML_fragments": [
+                    "<h2 style=\"padding: 15px;margin-bottom: 15px;overflow: hidden;font-size: 16px;border-bottom: 1px solid #ddd\" >You’ll love GitHub</h2>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "overflow",
+              "property_values": [
+                {
+                  "value": " hidden",
+                  "HTML_fragments": [
+                    "<h2 style=\"padding: 15px;margin-bottom: 15px;overflow: hidden;font-size: 16px;border-bottom: 1px solid #ddd\" >You’ll love GitHub</h2>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "border-bottom",
+              "property_values": [
+                {
+                  "value": " 1px solid #ddd",
+                  "HTML_fragments": [
+                    "<h2 style=\"padding: 15px;margin-bottom: 15px;overflow: hidden;font-size: 16px;border-bottom: 1px solid #ddd\" >You’ll love GitHub</h2>"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "UI_element_name": "label",
+          "properties": [
+            {
+              "property_name": "autocapitalize",
+              "property_values": [
+                {
+                  "value": "off",
+                  "HTML_fragments": [
+                    "<label autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" for=\"user_login\" name=\"user[login]\" >Username</label>",
+                    "<label autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" for=\"user_email\" name=\"user[email]\" >Email Address</label>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "autofocus",
+              "property_values": [
+                {
+                  "value": "autofocus",
+                  "HTML_fragments": [
+                    "<label autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" for=\"user_login\" name=\"user[login]\" >Username</label>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "data-autocheck-url",
+              "property_values": [
+                {
+                  "value": "/signup_check/username",
+                  "HTML_fragments": [
+                    "<label autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" for=\"user_login\" name=\"user[login]\" >Username</label>"
+                  ]
+                },
+                {
+                  "value": "/signup_check/email",
+                  "HTML_fragments": [
+                    "<label autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" for=\"user_email\" name=\"user[email]\" >Email Address</label>"
+                  ]
+                },
+                {
+                  "value": "/signup_check/password",
+                  "HTML_fragments": [
+                    "<label data-autocheck-url=\"/signup_check/password\" for=\"user_password\" name=\"user[password]\" >Password</label>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "for",
+              "property_values": [
+                {
+                  "value": "user_login",
+                  "HTML_fragments": [
+                    "<label autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" for=\"user_login\" name=\"user[login]\" >Username</label>"
+                  ]
+                },
+                {
+                  "value": "user_email",
+                  "HTML_fragments": [
+                    "<label autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" for=\"user_email\" name=\"user[email]\" >Email Address</label>"
+                  ]
+                },
+                {
+                  "value": "user_password",
+                  "HTML_fragments": [
+                    "<label data-autocheck-url=\"/signup_check/password\" for=\"user_password\" name=\"user[password]\" >Password</label>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "name",
+              "property_values": [
+                {
+                  "value": "user[login]",
+                  "HTML_fragments": [
+                    "<label autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" for=\"user_login\" name=\"user[login]\" >Username</label>"
+                  ]
+                },
+                {
+                  "value": "user[email]",
+                  "HTML_fragments": [
+                    "<label autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" for=\"user_email\" name=\"user[email]\" >Email Address</label>"
+                  ]
+                },
+                {
+                  "value": "user[password]",
+                  "HTML_fragments": [
+                    "<label data-autocheck-url=\"/signup_check/password\" for=\"user_password\" name=\"user[password]\" >Password</label>"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "UI_element_name": "customtextbox",
+          "properties": [
+            {
+              "property_name": "autocapitalize",
+              "property_values": [
+                {
+                  "value": "off",
+                  "HTML_fragments": [
+                    "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >",
+                    "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "autofocus",
+              "property_values": [
+                {
+                  "value": "autofocus",
+                  "HTML_fragments": [
+                    "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "data-autocheck-url",
+              "property_values": [
+                {
+                  "value": "/signup_check/username",
+                  "HTML_fragments": [
+                    "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                  ]
+                },
+                {
+                  "value": "/signup_check/email",
+                  "HTML_fragments": [
+                    "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "name",
+              "property_values": [
+                {
+                  "value": "user[login]",
+                  "HTML_fragments": [
+                    "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                  ]
+                },
+                {
+                  "value": "user[email]",
+                  "HTML_fragments": [
+                    "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "size",
+              "property_values": [
+                {
+                  "value": "30",
+                  "HTML_fragments": [
+                    "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >",
+                    "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "type",
+              "property_values": [
+                {
+                  "value": "text",
+                  "HTML_fragments": [
+                    "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >",
+                    "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "value",
+              "property_values": [
+                {
+                  "value": "",
+                  "HTML_fragments": [
+                    "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                  ]
+                },
+                {
+                  "value": "put.hassanmansoor@gmail.com",
+                  "HTML_fragments": [
+                    "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "data-throttle-wait",
+              "property_values": [
+                {
+                  "value": "300",
+                  "HTML_fragments": [
+                    "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "width",
+              "property_values": [
+                {
+                  "value": " 100%",
+                  "HTML_fragments": [
+                    "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >",
+                    "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "UI_element_name": "custompasswordbox",
+          "properties": [
+            {
+              "property_name": "data-autocheck-url",
+              "property_values": [
+                {
+                  "value": "/signup_check/password",
+                  "HTML_fragments": [
+                    "<input data-autocheck-url=\"/signup_check/password\" name=\"user[password]\" size=\"30\" type=\"password\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "name",
+              "property_values": [
+                {
+                  "value": "user[password]",
+                  "HTML_fragments": [
+                    "<input data-autocheck-url=\"/signup_check/password\" name=\"user[password]\" size=\"30\" type=\"password\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "size",
+              "property_values": [
+                {
+                  "value": "30",
+                  "HTML_fragments": [
+                    "<input data-autocheck-url=\"/signup_check/password\" name=\"user[password]\" size=\"30\" type=\"password\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "type",
+              "property_values": [
+                {
+                  "value": "password",
+                  "HTML_fragments": [
+                    "<input data-autocheck-url=\"/signup_check/password\" name=\"user[password]\" size=\"30\" type=\"password\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "width",
+              "property_values": [
+                {
+                  "value": " 100%",
+                  "HTML_fragments": [
+                    "<input data-autocheck-url=\"/signup_check/password\" name=\"user[password]\" size=\"30\" type=\"password\" style=\"width: 100%\" >"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "UI_element_name": "link",
+          "properties": [
+            {
+              "property_name": "href",
+              "property_values": [
+                {
+                  "value": "https://help.github.com/terms",
+                  "HTML_fragments": [
+                    "<a href=\"https://help.github.com/terms\" target=\"_blank\" >"
+                  ]
+                },
+                {
+                  "value": "https://help.github.com/privacy",
+                  "HTML_fragments": [
+                    "<a href=\"https://help.github.com/privacy\" target=\"_blank\" >"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "target",
+              "property_values": [
+                {
+                  "value": "_blank",
+                  "HTML_fragments": [
+                    "<a href=\"https://help.github.com/terms\" target=\"_blank\" >",
+                    "<a href=\"https://help.github.com/privacy\" target=\"_blank\" >"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "UI_element_name": "button",
+          "properties": [
+            {
+              "property_name": "type",
+              "property_values": [
+                {
+                  "value": "submit",
+                  "HTML_fragments": [
+                    "<button type=\"submit\" data-disable-with=\"Creating account…\" >Create an account</button>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "data-disable-with",
+              "property_values": [
+                {
+                  "value": "Creating account…",
+                  "HTML_fragments": [
+                    "<button type=\"submit\" data-disable-with=\"Creating account…\" >Create an account</button>"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "UI_element_name": "dropdown",
+          "properties": [
+            {
+              "property_name": "padding",
+              "property_values": [
+                {
+                  "value": " 0 15px 15px",
+                  "HTML_fragments": [
+                    "<ul style=\"padding: 0 15px 15px;margin: 0;font-size: 14px;list-style: none\" >            <li style=\"margin-top: 0\" ><strong >Unlimited</strong> collaborators</li>            <li style=\"margin-top: 10px\" ><strong >Unlimited</strong> public repositories</li>            <li class=\"list-divider\" style=\"margin-top: 10px;margin: 15px -15px;border-top: 1px solid #eee\" ></li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Great communication</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Friction-less development</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Open source community</li>          </ul>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "margin",
+              "property_values": [
+                {
+                  "value": " 0",
+                  "HTML_fragments": [
+                    "<ul style=\"padding: 0 15px 15px;margin: 0;font-size: 14px;list-style: none\" >            <li style=\"margin-top: 0\" ><strong >Unlimited</strong> collaborators</li>            <li style=\"margin-top: 10px\" ><strong >Unlimited</strong> public repositories</li>            <li class=\"list-divider\" style=\"margin-top: 10px;margin: 15px -15px;border-top: 1px solid #eee\" ></li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Great communication</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Friction-less development</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Open source community</li>          </ul>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "font-size",
+              "property_values": [
+                {
+                  "value": " 14px",
+                  "HTML_fragments": [
+                    "<ul style=\"padding: 0 15px 15px;margin: 0;font-size: 14px;list-style: none\" >            <li style=\"margin-top: 0\" ><strong >Unlimited</strong> collaborators</li>            <li style=\"margin-top: 10px\" ><strong >Unlimited</strong> public repositories</li>            <li class=\"list-divider\" style=\"margin-top: 10px;margin: 15px -15px;border-top: 1px solid #eee\" ></li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Great communication</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Friction-less development</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Open source community</li>          </ul>"
+                  ]
+                }
+              ]
+            },
+            {
+              "property_name": "list-style",
+              "property_values": [
+                {
+                  "value": " none",
+                  "HTML_fragments": [
+                    "<ul style=\"padding: 0 15px 15px;margin: 0;font-size: 14px;list-style: none\" >            <li style=\"margin-top: 0\" ><strong >Unlimited</strong> collaborators</li>            <li style=\"margin-top: 10px\" ><strong >Unlimited</strong> public repositories</li>            <li class=\"list-divider\" style=\"margin-top: 10px;margin: 15px -15px;border-top: 1px solid #eee\" ></li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Great communication</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Friction-less development</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Open source community</li>          </ul>"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Errors": []
+}

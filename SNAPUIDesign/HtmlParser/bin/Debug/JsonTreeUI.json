@@ -1,0 +1,551 @@
+{
+  "SNAP2_1_UIDesign": [
+    {
+      "DOMTree": [
+        {
+          "heading": [
+            {
+              "margin-top": [
+                {
+                  " 0": [
+                    {
+                      "Value": "<h1 style=\"margin-top: 0;margin-bottom: 0;font-size: 45px;font-weight: normal;line-height: 1.1;letter-spacing: -1px\" >Join GitHub</h1>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "margin-bottom": [
+                {
+                  " 0": [
+                    {
+                      "Value": "<h1 style=\"margin-top: 0;margin-bottom: 0;font-size: 45px;font-weight: normal;line-height: 1.1;letter-spacing: -1px\" >Join GitHub</h1>"
+                    }
+                  ]
+                },
+                {
+                  " 15px": [
+                    {
+                      "Value": "<h2 style=\"padding: 15px;margin-bottom: 15px;overflow: hidden;font-size: 16px;border-bottom: 1px solid #ddd\" >You’ll love GitHub</h2>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "font-size": [
+                {
+                  " 45px": [
+                    {
+                      "Value": "<h1 style=\"margin-top: 0;margin-bottom: 0;font-size: 45px;font-weight: normal;line-height: 1.1;letter-spacing: -1px\" >Join GitHub</h1>"
+                    }
+                  ]
+                },
+                {
+                  " 16px": [
+                    {
+                      "Value": "<h2 style=\"font-size: 16px\" >    Create your personal account  </h2>"
+                    },
+                    {
+                      "Value": "<h2 style=\"padding: 15px;margin-bottom: 15px;overflow: hidden;font-size: 16px;border-bottom: 1px solid #ddd\" >You’ll love GitHub</h2>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "font-weight": [
+                {
+                  " normal": [
+                    {
+                      "Value": "<h1 style=\"margin-top: 0;margin-bottom: 0;font-size: 45px;font-weight: normal;line-height: 1.1;letter-spacing: -1px\" >Join GitHub</h1>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "line-height": [
+                {
+                  " 1.1": [
+                    {
+                      "Value": "<h1 style=\"margin-top: 0;margin-bottom: 0;font-size: 45px;font-weight: normal;line-height: 1.1;letter-spacing: -1px\" >Join GitHub</h1>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "letter-spacing": [
+                {
+                  " -1px": [
+                    {
+                      "Value": "<h1 style=\"margin-top: 0;margin-bottom: 0;font-size: 45px;font-weight: normal;line-height: 1.1;letter-spacing: -1px\" >Join GitHub</h1>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "padding": [
+                {
+                  " 15px": [
+                    {
+                      "Value": "<h2 style=\"padding: 15px;margin-bottom: 15px;overflow: hidden;font-size: 16px;border-bottom: 1px solid #ddd\" >You’ll love GitHub</h2>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "overflow": [
+                {
+                  " hidden": [
+                    {
+                      "Value": "<h2 style=\"padding: 15px;margin-bottom: 15px;overflow: hidden;font-size: 16px;border-bottom: 1px solid #ddd\" >You’ll love GitHub</h2>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "border-bottom": [
+                {
+                  " 1px solid #ddd": [
+                    {
+                      "Value": "<h2 style=\"padding: 15px;margin-bottom: 15px;overflow: hidden;font-size: 16px;border-bottom: 1px solid #ddd\" >You’ll love GitHub</h2>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": [
+            {
+              "autocapitalize": [
+                {
+                  "off": [
+                    {
+                      "Value": "<label autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" for=\"user_login\" name=\"user[login]\" >Username</label>"
+                    },
+                    {
+                      "Value": "<label autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" for=\"user_email\" name=\"user[email]\" >Email Address</label>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "autofocus": [
+                {
+                  "autofocus": [
+                    {
+                      "Value": "<label autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" for=\"user_login\" name=\"user[login]\" >Username</label>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "data-autocheck-url": [
+                {
+                  "/signup_check/username": [
+                    {
+                      "Value": "<label autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" for=\"user_login\" name=\"user[login]\" >Username</label>"
+                    }
+                  ]
+                },
+                {
+                  "/signup_check/email": [
+                    {
+                      "Value": "<label autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" for=\"user_email\" name=\"user[email]\" >Email Address</label>"
+                    }
+                  ]
+                },
+                {
+                  "/signup_check/password": [
+                    {
+                      "Value": "<label data-autocheck-url=\"/signup_check/password\" for=\"user_password\" name=\"user[password]\" >Password</label>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "for": [
+                {
+                  "user_login": [
+                    {
+                      "Value": "<label autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" for=\"user_login\" name=\"user[login]\" >Username</label>"
+                    }
+                  ]
+                },
+                {
+                  "user_email": [
+                    {
+                      "Value": "<label autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" for=\"user_email\" name=\"user[email]\" >Email Address</label>"
+                    }
+                  ]
+                },
+                {
+                  "user_password": [
+                    {
+                      "Value": "<label data-autocheck-url=\"/signup_check/password\" for=\"user_password\" name=\"user[password]\" >Password</label>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "user[login]": [
+                    {
+                      "Value": "<label autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" for=\"user_login\" name=\"user[login]\" >Username</label>"
+                    }
+                  ]
+                },
+                {
+                  "user[email]": [
+                    {
+                      "Value": "<label autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" for=\"user_email\" name=\"user[email]\" >Email Address</label>"
+                    }
+                  ]
+                },
+                {
+                  "user[password]": [
+                    {
+                      "Value": "<label data-autocheck-url=\"/signup_check/password\" for=\"user_password\" name=\"user[password]\" >Password</label>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "customtextbox": [
+            {
+              "autocapitalize": [
+                {
+                  "off": [
+                    {
+                      "Value": "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                    },
+                    {
+                      "Value": "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "autofocus": [
+                {
+                  "autofocus": [
+                    {
+                      "Value": "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "data-autocheck-url": [
+                {
+                  "/signup_check/username": [
+                    {
+                      "Value": "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                    }
+                  ]
+                },
+                {
+                  "/signup_check/email": [
+                    {
+                      "Value": "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "user[login]": [
+                    {
+                      "Value": "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                    }
+                  ]
+                },
+                {
+                  "user[email]": [
+                    {
+                      "Value": "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "size": [
+                {
+                  "30": [
+                    {
+                      "Value": "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                    },
+                    {
+                      "Value": "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": [
+                {
+                  "text": [
+                    {
+                      "Value": "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                    },
+                    {
+                      "Value": "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "value": [
+                {
+                  "": [
+                    {
+                      "Value": "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                    }
+                  ]
+                },
+                {
+                  "put.hassanmansoor@gmail.com": [
+                    {
+                      "Value": "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "data-throttle-wait": [
+                {
+                  "300": [
+                    {
+                      "Value": "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "width": [
+                {
+                  " 100%": [
+                    {
+                      "Value": "<input autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\" >"
+                    },
+                    {
+                      "Value": "<input autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "custompasswordbox": [
+            {
+              "data-autocheck-url": [
+                {
+                  "/signup_check/password": [
+                    {
+                      "Value": "<input data-autocheck-url=\"/signup_check/password\" name=\"user[password]\" size=\"30\" type=\"password\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": [
+                {
+                  "user[password]": [
+                    {
+                      "Value": "<input data-autocheck-url=\"/signup_check/password\" name=\"user[password]\" size=\"30\" type=\"password\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "size": [
+                {
+                  "30": [
+                    {
+                      "Value": "<input data-autocheck-url=\"/signup_check/password\" name=\"user[password]\" size=\"30\" type=\"password\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": [
+                {
+                  "password": [
+                    {
+                      "Value": "<input data-autocheck-url=\"/signup_check/password\" name=\"user[password]\" size=\"30\" type=\"password\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "width": [
+                {
+                  " 100%": [
+                    {
+                      "Value": "<input data-autocheck-url=\"/signup_check/password\" name=\"user[password]\" size=\"30\" type=\"password\" style=\"width: 100%\" >"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "link": [
+            {
+              "href": [
+                {
+                  "https://help.github.com/terms": [
+                    {
+                      "Value": "<a href=\"https://help.github.com/terms\" target=\"_blank\" >"
+                    }
+                  ]
+                },
+                {
+                  "https://help.github.com/privacy": [
+                    {
+                      "Value": "<a href=\"https://help.github.com/privacy\" target=\"_blank\" >"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "target": [
+                {
+                  "_blank": [
+                    {
+                      "Value": "<a href=\"https://help.github.com/terms\" target=\"_blank\" >"
+                    },
+                    {
+                      "Value": "<a href=\"https://help.github.com/privacy\" target=\"_blank\" >"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "button": [
+            {
+              "type": [
+                {
+                  "submit": [
+                    {
+                      "Value": "<button type=\"submit\" data-disable-with=\"Creating account…\" >Create an account</button>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "data-disable-with": [
+                {
+                  "Creating account…": [
+                    {
+                      "Value": "<button type=\"submit\" data-disable-with=\"Creating account…\" >Create an account</button>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "dropdown": [
+            {
+              "padding": [
+                {
+                  " 0 15px 15px": [
+                    {
+                      "Value": "<ul style=\"padding: 0 15px 15px;margin: 0;font-size: 14px;list-style: none\" >            <li style=\"margin-top: 0\" ><strong >Unlimited</strong> collaborators</li>            <li style=\"margin-top: 10px\" ><strong >Unlimited</strong> public repositories</li>            <li class=\"list-divider\" style=\"margin-top: 10px;margin: 15px -15px;border-top: 1px solid #eee\" ></li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Great communication</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Friction-less development</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Open source community</li>          </ul>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "margin": [
+                {
+                  " 0": [
+                    {
+                      "Value": "<ul style=\"padding: 0 15px 15px;margin: 0;font-size: 14px;list-style: none\" >            <li style=\"margin-top: 0\" ><strong >Unlimited</strong> collaborators</li>            <li style=\"margin-top: 10px\" ><strong >Unlimited</strong> public repositories</li>            <li class=\"list-divider\" style=\"margin-top: 10px;margin: 15px -15px;border-top: 1px solid #eee\" ></li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Great communication</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Friction-less development</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Open source community</li>          </ul>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "font-size": [
+                {
+                  " 14px": [
+                    {
+                      "Value": "<ul style=\"padding: 0 15px 15px;margin: 0;font-size: 14px;list-style: none\" >            <li style=\"margin-top: 0\" ><strong >Unlimited</strong> collaborators</li>            <li style=\"margin-top: 10px\" ><strong >Unlimited</strong> public repositories</li>            <li class=\"list-divider\" style=\"margin-top: 10px;margin: 15px -15px;border-top: 1px solid #eee\" ></li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Great communication</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Friction-less development</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Open source community</li>          </ul>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "list-style": [
+                {
+                  " none": [
+                    {
+                      "Value": "<ul style=\"padding: 0 15px 15px;margin: 0;font-size: 14px;list-style: none\" >            <li style=\"margin-top: 0\" ><strong >Unlimited</strong> collaborators</li>            <li style=\"margin-top: 10px\" ><strong >Unlimited</strong> public repositories</li>            <li class=\"list-divider\" style=\"margin-top: 10px;margin: 15px -15px;border-top: 1px solid #eee\" ></li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Great communication</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Friction-less development</li>            <li style=\"margin-top: 10px\" ><customsvg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\" ><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\" ></path></customsvg> Open source community</li>          </ul>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "HTMLDOM": [
+        {
+          "Value": "<div class=\"setup-wrapper\" style=\"width: 750px;padding-top: 30px;margin: 0 auto;font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif\">    <div class=\"setup-header setup-org\" style=\"padding-bottom: 0;margin: 0 auto 30px;overflow: hidden;text-align: left;text-shadow: 0 1px 0 white;border-bottom: 0\">        <h1 style=\"margin-top: 0;margin-bottom: 0;font-size: 45px;font-weight: normal;line-height: 1.1;letter-spacing: -1px\">Join GitHub</h1>        <p class=\"lead\" style=\"margin-top: 2px;margin-bottom: 0;font-size: 21px\">The best way to design, build, and ship software.</p>        <!-- Show steps if user is creating an organiation -->          <ol class=\"steps\">            <li class=\"current\">              <svg aria-hidden=\"true\" class=\"octicon octicon-person\" height=\"32\" version=\"1.1\" viewbox=\"0 0 8 16\" width=\"16\"><path d=\"M7 6H1c-0.55 0-1 0.45-1 1v5h2v3c0 0.55 0.45 1 1 1h2c0.55 0 1-0.45 1-1V12h2V7c0-0.55-0.45-1-1-1z m0 5h-1V9h-1v6H3V9h-1v2H1V7h6v4z m0-8C7 1.34 5.66 0 4 0S1 1.34 1 3s1.34 3 3 3 3-1.34 3-3zM4 5c-1.11 0-2-0.89-2-2S2.89 1 4 1s2 0.89 2 2-0.89 2-2 2z\"></path></svg>              <strong class=\"step\">Step 1:</strong>              Set up a personal account            </li>            <li>              <svg aria-hidden=\"true\" class=\"octicon octicon-versions\" height=\"32\" version=\"1.1\" viewbox=\"0 0 14 16\" width=\"28\"><path d=\"M13 3H7c-0.55 0-1 0.45-1 1v8c0 0.55 0.45 1 1 1h6c0.55 0 1-0.45 1-1V4c0-0.55-0.45-1-1-1z m-1 8H8V5h4v6zM4 4h1v1h-1v6h1v1h-1c-0.55 0-1-0.45-1-1V5c0-0.55 0.45-1 1-1zM1 5h1v1H1v4h1v1H1c-0.55 0-1-0.45-1-1V6c0-0.55 0.45-1 1-1z\"></path></svg>              <strong class=\"step\">Step 2:</strong>              Choose your plan            </li>            <li>                <svg aria-hidden=\"true\" class=\"octicon octicon-gear\" height=\"32\" version=\"1.1\" viewbox=\"0 0 14 16\" width=\"28\"><path d=\"M14 8.77V7.17l-1.94-0.64-0.45-1.09 0.88-1.84-1.13-1.13-1.81 0.91-1.09-0.45-0.69-1.92H6.17l-0.63 1.94-1.11 0.45-1.84-0.88-1.13 1.13 0.91 1.81-0.45 1.09L0 7.23v1.59l1.94 0.64 0.45 1.09-0.88 1.84 1.13 1.13 1.81-0.91 1.09 0.45 0.69 1.92h1.59l0.63-1.94 1.11-0.45 1.84 0.88 1.13-1.13-0.92-1.81 0.47-1.09 1.92-0.69zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z\"></path></svg>                <strong class=\"step\">Step 3:</strong>                Help us tailor your experience            </li>          </ol>    </div>    <div class=\"setup-main \" style=\"float: left;width: 450px\">      <div class=\"setup-form-container\">        <noscript>          <p class=\"error\">GitHub does not support browsers with JavaScript disabled.<br>          We promise we’ll behave.</p>        </noscript>        <!-- </textarea> --><!-- '\"` --><form accept-charset=\"UTF-8\" action=\"https://github.com/join\" autocomplete=\"off\" class=\"setup-form js-signup-form\" data-form-nonce=\"aa53f27919ff4322a5f773481cc774f4784fad95\" id=\"signup-form\" method=\"post\" style=\"padding-bottom: 15px\"><div style=\"margin:0;padding:0;display:inline\"><input name=\"utf8\" type=\"hidden\" value=\"✓\"><input name=\"authenticity_token\" type=\"hidden\" value=\"kWW0hfKadZgxZV8o4irwxZ3tawNsCgv+aE99pD2em+CL1e5m8ZgLO8bgReA+KFB24K+ay6Qoba5J7Bykup5miQ==\"></div>  <h2 class=\"setup-form-title mb-3\" style=\"font-size: 16px\">    Create your personal account  </h2>    <div class=\"flash flash-error my-3\">There were problems creating your account.    </div>  <dl class=\"form-group errored\"><dt class=\"input-label\"><div class=\"field-with-errors\"><label autocapitalize=\"off\" autofocus=\"autofocus\" data-autocheck-url=\"/signup_check/username\" for=\"user_login\" name=\"user[login]\">Username</label></div></dt><dd style=\"position: relative\"><div class=\"field-with-errors\"><input autocapitalize=\"off\" autofocus=\"autofocus\" class=\"form-control\" data-autocheck-url=\"/signup_check/username\" id=\"user_login\" name=\"user[login]\" size=\"30\" type=\"text\" value=\"\" data-throttle-wait=\"300\" style=\"width: 100%\"></div></dd><dd class=\"error\" style=\"position: relative\">Login can't be blank</dd></dl>  <dl class=\"form-group errored\"><dt class=\"input-label\"><div class=\"field-with-errors\"><label autocapitalize=\"off\" data-autocheck-url=\"/signup_check/email\" for=\"user_email\" name=\"user[email]\">Email Address</label></div></dt><dd style=\"position: relative\"><div class=\"field-with-errors\"><input autocapitalize=\"off\" class=\"form-control\" data-autocheck-url=\"/signup_check/email\" id=\"user_email\" name=\"user[email]\" size=\"30\" type=\"text\" value=\"put.hassanmansoor@gmail.com\" style=\"width: 100%\"></div></dd><dd class=\"error\" style=\"position: relative\">Email is invalid or already taken</dd></dl>  <dl class=\"form-group successed\"><dt class=\"input-label\"><label data-autocheck-url=\"/signup_check/password\" for=\"user_password\" name=\"user[password]\">Password</label></dt><dd style=\"position: relative\"><input class=\"form-control is-autocheck-successful\" data-autocheck-url=\"/signup_check/password\" id=\"user_password\" name=\"user[password]\" size=\"30\" type=\"password\" style=\"width: 100%\"><p class=\"note\">Use at least one lowercase letter, one numeral, and seven characters.</p></dd></dl>  <input type=\"hidden\" name=\"source\" class=\"js-signup-source\" value=\"form-home\">        <p class=\"tos-info\" style=\"margin: 15px 0;border-top: 1px solid #eee;border-bottom: 1px solid #eee;padding: 15px 0\">By clicking on \"Create an account\" below, you are agreeing to the    <a href=\"https://help.github.com/terms\" target=\"_blank\">Terms of Service</a> and the    <a href=\"https://help.github.com/privacy\" target=\"_blank\">Privacy Policy</a>.</p>  <button type=\"submit\" class=\"btn btn-primary\" id=\"signup_button\" data-disable-with=\"Creating account…\">Create an account</button></form>      </div> <!-- /.setup-form-container -->    </div> <!-- /.setup-main -->      <div class=\"setup-secondary\" style=\"float: right;width: 250px\">        <div class=\"setup-info-module\" style=\"margin-bottom: 30px;background-color: #fff;border: 1px solid #ccc;border-radius: 3px;box-shadow: 0 1px 3px rgba(0,0,0,0.075)\">          <h2 style=\"padding: 15px;margin-bottom: 15px;overflow: hidden;font-size: 16px;border-bottom: 1px solid #ddd\">You’ll love GitHub</h2>          <ul class=\"features-list\" style=\"padding: 0 15px 15px;margin: 0;font-size: 14px;list-style: none\">            <li style=\"margin-top: 0\"><strong>Unlimited</strong> collaborators</li>            <li style=\"margin-top: 10px\"><strong>Unlimited</strong> public repositories</li>            <li class=\"list-divider\" style=\"margin-top: 10px;margin: 15px -15px;border-top: 1px solid #eee\"></li>            <li style=\"margin-top: 10px\"><svg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\"><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\"></path></svg> Great communication</li>            <li style=\"margin-top: 10px\"><svg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\"><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\"></path></svg> Friction-less development</li>            <li style=\"margin-top: 10px\"><svg aria-hidden=\"true\" class=\"octicon octicon-check\" height=\"16\" version=\"1.1\" viewbox=\"0 0 12 16\" width=\"12\" style=\"margin-right: 5px;color: #60b044\"><path d=\"M12 5L4 13 0 9l1.5-1.5 2.5 2.5 6.5-6.5 1.5 1.5z\"></path></svg> Open source community</li>          </ul>        </div>      </div>  </div>"
+        }
+      ]
+    },
+    {
+      "ERRORS": [
+        {
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}

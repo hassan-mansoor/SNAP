@@ -1,0 +1,44 @@
+{
+  "SNAP2_1_UIDesign": [
+    {
+      "DOMTree": [
+        {
+          "divider": [
+            {
+              "DOM Node": [
+                {
+                  "Value": "<div >\n               \n\t\t\t\t<heading > my head</heading>\n\t\t\t\t<heading > my head</heading>\n                <a class=\"navbar-brand\" href=\"index.html\" >Home</a>\n            </div>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": [
+            {
+              "DOM Node": [
+                {
+                  "Value": "<heading > my head</heading>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "HTMLDOM": [
+        {
+          "Value": "<div class=\"navbar-header\">\n               \n\t\t\t\t<h2> my head</h2>\n\t\t\t\t<h1> my head</h1>\n                <a class=\"navbar-brand\" href=\"index.html\">Home</a>\n            </div>"
+        }
+      ]
+    },
+    {
+      "ERRORS": [
+        {
+          "Value": "Node For Errors!!"
+        }
+      ]
+    }
+  ]
+}

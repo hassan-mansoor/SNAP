@@ -1,0 +1,11 @@
+{
+          'heading': [
+            {
+              'DOM Node': [
+                {
+                  'Value': '<heading > my head</heading>'
+                }
+              ]
+            }
+          ]
+        }

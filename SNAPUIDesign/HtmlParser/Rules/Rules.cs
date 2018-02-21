@@ -12,6 +12,7 @@ namespace HtmlParser.Rules
         void Rule1B();
         void Rule2A();
         void Rule2B();
+		void Rule3A();
 
     }
 }
